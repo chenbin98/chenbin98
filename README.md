@@ -1,5 +1,5 @@
 <!-- <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> -->
-<h1>Hello, I am <a href="https://weathergit.github.io/">Chen bin</a></h1>
+<h1>Hello, I am <a href="https://cbinmodeling.github.io/">Chen bin</a></h1>
 </h1>
 
 ### 📬 Find me at
@@ -20,11 +20,11 @@
   - 📊 <span style="color:red">Machine Learning & Data Science</span>
   - 🖼 <span style="color:red">Computer Vision and Image Processing</span>
   - 🛠 <span style="color:red">Agriculture modeling & GIS</span>
-  - 🤖 <span style="color:red">Plant Phenotyping and Remote Sensing</span>
+  - 🤖 <span style="color:red">Remote Sensing</span>
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on developing the crop simulation models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
-- 📙 Check out my [Resume](https://github.com/weathergit/weathergit/blob/main/TianQi.pdf)
+- 📙 Check out my [Resume](https://github.com/cbinmodeling/cbinmodeling/blob/main/TianQi.pdf)
 - 🎉 Fun-Fact: I ❤️ coding and writing🚀 and football⚾
 
   
@@ -41,5 +41,5 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=weathergit" alt="Tian Qin's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=cbinmodeling" alt="Chen bin's Github Stats" />
 </p>
