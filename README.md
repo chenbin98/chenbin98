@@ -3,9 +3,9 @@
 </h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/weathergit/)](https://github.com/cbinmodeling) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qtianaddress@gmail.com)](mailto:qtianaddress@gmail.com)
-[![Orcid Badge](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-8897-1714)](https://orcid.org/0000-0001-8897-1714)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/weathergit/)](https://github.com/chenbin98) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qtianaddress@gmail.com)](mailto:binc041208@gmail.com)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-8897-1714)](https://orcid.org/0009-0000-8266-940X)
 
 ### About me
  I'm a **PHD candidate🎓 @ NorthWest A&F University [Chinese](https://www.nwsuaf.edu.cn/)/[English](https://en.nwsuaf.edu.cn/)** majoring in GIS/Agriculture. <br/><br/>
