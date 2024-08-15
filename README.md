@@ -24,7 +24,7 @@
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on developing the crop simulation models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
-- 📙 Check out my [Resume](https://github.com/cbinmodeling/cbinmodeling/blob/main/TianQi.pdf)
+- 📙 Check out my [Resume](https://github.com/cbinmodeling/cbinmodeling/blob/main/ChenBin.pdf)
 - 🎉 Fun-Fact: I ❤️ coding and writing🚀 and football⚾
 
   
@@ -41,5 +41,5 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=cbinmodeling" alt="Chen bin's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=chenbin98" alt="Chen bin's Github Stats" />
 </p>
