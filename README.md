@@ -15,7 +15,7 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently MSD candidate at **@ NorthWest A&F University - College of Natural resources & Enviroment [Chinese](https://zhxy.nwafu.edu.cn/)|[English](https://zhxy.nwafu.edu.cn/english/)**
+- 🔭 I’m currently PHD candidate at **@ NorthWest A&F University - College of Natural resources & Enviroment [Chinese](https://zhxy.nwafu.edu.cn/)|[English](https://zhxy.nwafu.edu.cn/english/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 <span style="color:red">Machine Learning & Data Science</span>
   - 🖼 <span style="color:red">Computer Vision and Image Processing</span>
