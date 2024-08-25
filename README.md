@@ -15,17 +15,17 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently PhD candidate at **@NorthWest A&F University - College of Soil and Water Conservation Science and Engineering [Chinese](https://zhxy.nwafu.edu.cn/)|[English](https://zhxy.nwafu.edu.cn/english/)**
+- 🔭 I’m currently PhD candidate at **@NorthWest A&F University - College of Soil and Water Conservation Science and Engineering [Chinese](http://www.iswc.ac.cn/)|[English](http://english.iswc.cas.cn/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 <span style="color:red">Machine Learning & Data Science</span>
   - 🖼 <span style="color:red">Computer Vision and Image Processing</span>
-  - 🛠 <span style="color:red">Agriculture modeling & GIS</span>
+  - 🛠 <span style="color:red">Agriculture modeling </span>
   - 🤖 <span style="color:red">Remote Sensing</span>
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on developing the crop simulation models & machine leaning algorithms
+- 👯 I’m looking to collaborate on developing the crop models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
 - 📙 Check out my [Resume](https://github.com/chenbin98/blob/ChenBin.pdf)
-- 🎉 Fun-Fact: I ❤️ coding and writing🚀 and football⚾
+- 🎉 Fun-Fact: I ❤️ coding  writing🚀 football⚾ and basketball 🏀
 
   
 ### 🖥️ My DevSetup
