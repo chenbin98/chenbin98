@@ -1,5 +1,5 @@
 <!-- <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> -->
-<h1>Hello, I am <a href="https://cbinmodeling.github.io/">Chen bin</a></h1>
+<h1>Hello, I am <a href="https://cbinmodeling.github.io/">Bin</a></h1>
 </h1>
 
 ### 📬 Find me at
