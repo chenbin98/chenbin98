@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on developing the crop models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
 - 📙 Check out my [Resume](https://github.com/chenbin98/blob/ChenBin.pdf)
-- 🎉 Fun-Fact: I ❤️ coding  writing🚀 football⚾ and basketball 🏀
+- 🎉 Fun-Fact: I ❤️ hiking， mountain climbing and cooking 
 
   
 ### 🖥️ My DevSetup
