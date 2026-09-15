@@ -42,6 +42,11 @@
 
 
 ### 🚀 Quick Stats
+
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=chenbin98" alt="Chen bin's Github Stats" />
+  <img
+    width="450"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chenbin98"
+    alt="Chen bin's GitHub Stats"
+  />
 </p>
