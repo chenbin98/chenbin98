@@ -46,7 +46,7 @@
 <p align="center">
   <img
     width="450"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chenbin98"
+    src="./stats.svg"
     alt="Chen bin's GitHub Stats"
   />
 </p>
