@@ -4,7 +4,7 @@
 
 <p>
 
-[![](https://img.shields.io/badge/个人主页-blueviolet?logo=home)](https://chenbin98.github.io/homepage/)
+[![](https://img.shields.io/badge/Homepage-blueviolet?logo=home)](https://chenbin98.github.io/homepage/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/chenbin98) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qtianaddress@gmail.com)](mailto:binc041208@gmail.com)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-8897-1714)](https://orcid.org/0009-0000-8266-940X)
