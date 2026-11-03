@@ -61,11 +61,13 @@
 </p>
 
 <p>
+
 [![ESP32](https://img.shields.io/badge/-ESP32-%232C3A42?style=flat-square&logo=espressif&logoColor=%23ffffff)](#)
 [![MQTT](https://img.shields.io/badge/-MQTT-%232C3A42?style=flat-square&logo=mqtt&logoColor=%23660066)](#)
 [![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-%232C3A42?style=flat-square&logo=freertos&logoColor=%23ffffff)](#)
 [![IoT](https://img.shields.io/badge/-IoT-%232C3A42?style=flat-square)](#)
 [![Sensors](https://img.shields.io/badge/-Sensors-%232C3A42?style=flat-square)](#)
+
 </p>
 
 ## Quick Stats
